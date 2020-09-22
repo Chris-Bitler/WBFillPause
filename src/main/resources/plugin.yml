@@ -1,0 +1,10 @@
+main: io.cbitler.wbfillpause.WBFillPause
+name: WBFillPause
+version: '1.0'
+description: Pause wb fill
+load: POSTWORLD
+author: md_5
+website: spigotmc.org
+prefix: Testing
+depend:
+  - WorldBorder
